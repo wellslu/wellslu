@@ -6,8 +6,8 @@
 <!-- 狀態 -->
 <p align=center>
   <a href="https://github.com/wellslu">
-<!--     &include_all_commits=true -->
-    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=wellslu&theme=light&show_icons=true&rank_icon=github" />
+<!--     &theme=light -->
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=wellslu&show_icons=true&include_all_commits=true&rank_icon=github&card_width=250" />
   </a>
   <a href="https://github.com/wellslu">
     <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellslu&layout=compact&theme=buefy" />
