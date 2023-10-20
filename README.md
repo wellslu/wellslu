@@ -7,7 +7,7 @@
 <p align=center>
   <a href="https://github.com/wellslu">
 <!--     &rank_icon=github -->
-    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=wellslu&show_icons=true&theme=light&include_all_commits=true&card_width=250&rank_icon=github" />
+    <img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=wellslu&show_icons=true&theme=light&include_all_commits=true&card_width=250" />
   </a>
   <a href="https://github.com/wellslu">
     <img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellslu&layout=compact&theme=buefy" />
